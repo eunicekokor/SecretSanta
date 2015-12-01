@@ -7,8 +7,10 @@ These fields can be changed but need to be reflected in the final `print_to_file
 function.
 
 ## To Run
-`./secretsanta.py yourjsonfile.json`
-It will print out paragraphs you can copy paste in an email.
+`./secretsanta.py yourjsonfile.json anytextfile.txt`
+It will print out paragraphs to your test file you can copy paste in an email.
 
 ## Potential Enhancements
-New File with paragraphs or possible email integration
+- possible email integration
+- easier custom fields
+- not json input
